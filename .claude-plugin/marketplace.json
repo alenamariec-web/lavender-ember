@@ -1,0 +1,5 @@
+{
+  "name": "lavender-ember",
+  "owner": { "name": "Lavender Ember" },
+  "plugins": [{ "name": "lavender-ember", "source": "./" }]
+}
